@@ -1,1 +1,1 @@
-# acceptance-tests-template
+# acceptance-tests
